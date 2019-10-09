@@ -1,0 +1,19 @@
+{
+    "name": "Openit/Tasksmngr",
+    "description": "This package will manage the tasks",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MuthukumaranOpenIT",
+            "email": "muthu@openitworks.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Openit\\Tasksmngr\\": "src/"
+        }
+    },
+}
